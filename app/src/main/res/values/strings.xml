@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">MyRestApp_AlessandroStefanucci</string>
+    <string name="toastErrUser">Username errato</string>
+    <string name="toastErrPwd">Password errata</string>
+    <string name="toastInvia">Inviato!</string>
+
 </resources>

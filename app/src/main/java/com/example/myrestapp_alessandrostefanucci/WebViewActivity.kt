@@ -1,6 +1,7 @@
 package com.example.myrestapp_alessandrostefanucci
 
 import android.os.Bundle
+import android.webkit.WebView
 import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.view.ViewCompat
@@ -16,5 +17,12 @@ class WebViewActivity : AppCompatActivity() {
             v.setPadding(systemBars.left, systemBars.top, systemBars.right, systemBars.bottom)
             insets
         }
+
+        val webView : WebView = findViewById(R.id.activity_web_view__webView)
+        webView.settings.javaScriptEnabled = true
+        setContentView(webView)
+
+        webView.loadUrl("https://open.spotify.com/intl-it")
+
     }
 }
