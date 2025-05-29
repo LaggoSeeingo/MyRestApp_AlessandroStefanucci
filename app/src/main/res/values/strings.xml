@@ -2,6 +2,7 @@
     <string name="app_name">MyRestApp_AlessandroStefanucci</string>
     <string name="toastErrUser">Username errato</string>
     <string name="toastErrPwd">Password errata</string>
-    <string name="toastInvia">Inviato!</string>
+    <string name="toastAccesso">Accesso effettuato, benvenuto!</string>
+    <string name="toastNegato">Username o password errati, accesso negato</string>
 
 </resources>

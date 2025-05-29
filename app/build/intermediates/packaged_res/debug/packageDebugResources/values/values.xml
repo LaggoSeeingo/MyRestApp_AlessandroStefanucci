@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">MyRestApp_AlessandroStefanucci</string>
+    <string name="toastAccesso">Accesso effettuato, benvenuto!</string>
+    <string name="toastErrPwd">Password errata</string>
+    <string name="toastErrUser">Username errato</string>
+    <string name="toastNegato">Username o password errati, accesso negato</string>
+    <style name="Base.Theme.MyRestApp_AlessandroStefanucci" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.MyRestApp_AlessandroStefanucci" parent="Base.Theme.MyRestApp_AlessandroStefanucci"/>
+</resources>

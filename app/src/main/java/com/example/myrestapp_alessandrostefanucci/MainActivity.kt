@@ -1,9 +1,13 @@
 package com.example.myrestapp_alessandrostefanucci
 
+import android.content.Intent
 import android.os.Bundle
 import android.text.InputType
+import android.view.Menu
 import android.view.View
 import android.widget.Button
+import android.widget.EditText
+import android.widget.ImageView
 import android.widget.TextView
 import android.widget.Toast
 import androidx.activity.enableEdgeToEdge
@@ -32,16 +36,35 @@ class MainActivity : AppCompatActivity() {
         val pwds = arrayOf("123","456","789")
 
         var btnInvia : Button = findViewById(R.id.activity_main__btnInvia)
+        var imgLogo: ImageView = findViewById<ImageView>(R.id.activity_main__imgLogo)
+
+        imgLogo.setImageResource(R.drawable.cinema)
 
         btnInvia.setOnClickListener(View.OnClickListener {
-            var toast = Toast.makeText(this, R.string.toastInvia, Toast.LENGTH_LONG)
-            toast.show()
-            valida()
+            valida(users, pwds)
         })
 
     }
 
-    private fun valida(){
+    private fun valida(users: Array<String>, pwds: Array<String>) {
+        var user = findViewById<EditText>(R.id.activity_main__txtUsername)
+        var userTXT = user.text.toString()
+        var pwd = findViewById<EditText>(R.id.activity_main__txtPassword)
+        var pwdTXT = pwd.text.toString()
 
+        for(i in users.indices){
+                if(users[i].contentEquals(userTXT) && pwds[i].contentEquals(pwdTXT)){
+                    val intent = Intent(this, MenuActivity::class.java)
+                    var toast = Toast.makeText(this, R.string.toastAccesso, Toast.LENGTH_LONG)
+                    toast.show()
+                    startActivity(intent)
+                    return
+                }
+            }
+
+            var toast = Toast.makeText(this, R.string.toastNegato, Toast.LENGTH_LONG)
+            toast.show()
+            user.setText("")
+            pwd.setText("")
     }
 }

@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "C:\\Users\\aless\\.gradle\\daemon\\8.11.1\\com.example.myrestapp_alessandrostefanucci.app-debug-35:\\mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\aless\\.gradle\\daemon\\8.11.1\\com.example.myrestapp_alessandrostefanucci.app-main-37:\\mipmap-anydpi\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\aless\\.gradle\\daemon\\8.11.1\\com.example.myrestapp_alessandrostefanucci.app-debug-35:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\aless\\.gradle\\daemon\\8.11.1\\com.example.myrestapp_alessandrostefanucci.app-main-37:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\aless\\.gradle\\daemon\\8.11.1\\com.example.myrestapp_alessandrostefanucci.app-debug-35:\\layout_activity_web_view.xml.flat",
+        "source": "C:\\Users\\aless\\.gradle\\daemon\\8.11.1\\com.example.myrestapp_alessandrostefanucci.app-main-37:\\layout\\activity_web_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\aless\\.gradle\\daemon\\8.11.1\\com.example.myrestapp_alessandrostefanucci.app-debug-35:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\aless\\.gradle\\daemon\\8.11.1\\com.example.myrestapp_alessandrostefanucci.app-main-37:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "com.example.myrestapp_alessandrostefanucci.app-debug-35:/layout_activity_search.xml.flat",
+        "source": "com.example.myrestapp_alessandrostefanucci.app-main-37:/layout/activity_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\aless\\.gradle\\daemon\\8.11.1\\com.example.myrestapp_alessandrostefanucci.app-debug-35:\\drawable_investipanther.jpg.flat",
+        "source": "C:\\Users\\aless\\.gradle\\daemon\\8.11.1\\com.example.myrestapp_alessandrostefanucci.app-main-37:\\drawable\\investipanther.jpg"
+    },
+    {
+        "merged": "C:\\Users\\aless\\.gradle\\daemon\\8.11.1\\com.example.myrestapp_alessandrostefanucci.app-debug-35:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\aless\\.gradle\\daemon\\8.11.1\\com.example.myrestapp_alessandrostefanucci.app-main-37:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\aless\\.gradle\\daemon\\8.11.1\\com.example.myrestapp_alessandrostefanucci.app-debug-35:\\drawable_cinema.jpg.flat",
+        "source": "C:\\Users\\aless\\.gradle\\daemon\\8.11.1\\com.example.myrestapp_alessandrostefanucci.app-main-37:\\drawable\\cinema.jpg"
+    },
+    {
+        "merged": "C:\\Users\\aless\\.gradle\\daemon\\8.11.1\\com.example.myrestapp_alessandrostefanucci.app-debug-35:\\layout_movie.xml.flat",
+        "source": "C:\\Users\\aless\\.gradle\\daemon\\8.11.1\\com.example.myrestapp_alessandrostefanucci.app-main-37:\\layout\\movie.xml"
+    },
+    {
+        "merged": "C:\\Users\\aless\\.gradle\\daemon\\8.11.1\\com.example.myrestapp_alessandrostefanucci.app-debug-35:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\aless\\.gradle\\daemon\\8.11.1\\com.example.myrestapp_alessandrostefanucci.app-main-37:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\aless\\.gradle\\daemon\\8.11.1\\com.example.myrestapp_alessandrostefanucci.app-debug-35:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\aless\\.gradle\\daemon\\8.11.1\\com.example.myrestapp_alessandrostefanucci.app-main-37:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\aless\\.gradle\\daemon\\8.11.1\\com.example.myrestapp_alessandrostefanucci.app-debug-35:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\aless\\.gradle\\daemon\\8.11.1\\com.example.myrestapp_alessandrostefanucci.app-main-37:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\aless\\.gradle\\daemon\\8.11.1\\com.example.myrestapp_alessandrostefanucci.app-debug-35:\\layout_activity_menu.xml.flat",
+        "source": "C:\\Users\\aless\\.gradle\\daemon\\8.11.1\\com.example.myrestapp_alessandrostefanucci.app-main-37:\\layout\\activity_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\aless\\.gradle\\daemon\\8.11.1\\com.example.myrestapp_alessandrostefanucci.app-debug-35:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\aless\\.gradle\\daemon\\8.11.1\\com.example.myrestapp_alessandrostefanucci.app-main-37:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\aless\\.gradle\\daemon\\8.11.1\\com.example.myrestapp_alessandrostefanucci.app-debug-35:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\aless\\.gradle\\daemon\\8.11.1\\com.example.myrestapp_alessandrostefanucci.app-main-37:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\aless\\.gradle\\daemon\\8.11.1\\com.example.myrestapp_alessandrostefanucci.app-debug-35:\\drawable_cinema.png.flat",
+        "source": "C:\\Users\\aless\\.gradle\\daemon\\8.11.1\\com.example.myrestapp_alessandrostefanucci.app-main-37:\\drawable\\cinema.png"
+    },
+    {
+        "merged": "C:\\Users\\aless\\.gradle\\daemon\\8.11.1\\com.example.myrestapp_alessandrostefanucci.app-debug-35:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\aless\\.gradle\\daemon\\8.11.1\\com.example.myrestapp_alessandrostefanucci.app-main-37:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\aless\\.gradle\\daemon\\8.11.1\\com.example.myrestapp_alessandrostefanucci.app-debug-35:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\aless\\.gradle\\daemon\\8.11.1\\com.example.myrestapp_alessandrostefanucci.app-main-37:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\aless\\.gradle\\daemon\\8.11.1\\com.example.myrestapp_alessandrostefanucci.app-debug-35:\\layout_activity_search.xml.flat",
+        "source": "C:\\Users\\aless\\.gradle\\daemon\\8.11.1\\com.example.myrestapp_alessandrostefanucci.app-main-37:\\layout\\activity_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\aless\\.gradle\\daemon\\8.11.1\\com.example.myrestapp_alessandrostefanucci.app-debug-35:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\aless\\.gradle\\daemon\\8.11.1\\com.example.myrestapp_alessandrostefanucci.app-main-37:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\aless\\.gradle\\daemon\\8.11.1\\com.example.myrestapp_alessandrostefanucci.app-debug-35:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\aless\\.gradle\\daemon\\8.11.1\\com.example.myrestapp_alessandrostefanucci.app-main-37:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\aless\\.gradle\\daemon\\8.11.1\\com.example.myrestapp_alessandrostefanucci.app-debug-35:\\mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\aless\\.gradle\\daemon\\8.11.1\\com.example.myrestapp_alessandrostefanucci.app-main-37:\\mipmap-anydpi\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\aless\\.gradle\\daemon\\8.11.1\\com.example.myrestapp_alessandrostefanucci.app-debug-35:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\aless\\.gradle\\daemon\\8.11.1\\com.example.myrestapp_alessandrostefanucci.app-main-37:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\aless\\.gradle\\daemon\\8.11.1\\com.example.myrestapp_alessandrostefanucci.app-debug-35:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\aless\\.gradle\\daemon\\8.11.1\\com.example.myrestapp_alessandrostefanucci.app-main-37:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\aless\\.gradle\\daemon\\8.11.1\\com.example.myrestapp_alessandrostefanucci.app-debug-35:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\aless\\.gradle\\daemon\\8.11.1\\com.example.myrestapp_alessandrostefanucci.app-main-37:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\aless\\.gradle\\daemon\\8.11.1\\com.example.myrestapp_alessandrostefanucci.app-debug-35:\\layout_activity_rest.xml.flat",
+        "source": "C:\\Users\\aless\\.gradle\\daemon\\8.11.1\\com.example.myrestapp_alessandrostefanucci.app-main-37:\\layout\\activity_rest.xml"
+    }
+]
