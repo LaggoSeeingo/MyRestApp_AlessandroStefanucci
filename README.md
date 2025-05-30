@@ -14,7 +14,7 @@ Nello specifico, attraverso l'uso dei bottoni, deve essere possibile:
 ### 1. MainActivity
 Prima activity che contiene la funzione di login e l'intent alla MenuActivity
 
-Coppie Username/password funzionanti:
+Coppie Username/password funzionanti (Hardcoded per scopi dimostrativi):
 - User1/123
 - User2/456
 - User3/789
