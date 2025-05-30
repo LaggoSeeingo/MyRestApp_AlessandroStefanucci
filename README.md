@@ -63,7 +63,7 @@ Activity a cui è possibile accedere dopo essersi autenticati, contiene tre bott
 
 
 ### 3. SearchActivity con MovieAdapter
-Semplice app che fa uso delle API OMDb OMDb per ricercare una lista di film restituita in formato JSON e visualizzata tramite una RecyclerView <p>Credits: <p>Francesco Amendola<a href="https://github.com/amendola-scuola/FilmSearch)"> @amendola-scuola)</a></p>
+Semplice app che fa uso delle API OMDb OMDb per ricercare una lista di film restituita in formato JSON e visualizzata tramite una RecyclerView <p>Credits: <p>Francesco Amendola<a href="https://github.com/amendola-scuola/FilmSearch"> @amendola-scuola</a></p>
 
 ### 4. RestActivity
 Activity non sviluppata
