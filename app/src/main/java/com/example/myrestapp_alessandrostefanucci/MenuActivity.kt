@@ -32,10 +32,10 @@ class MenuActivity : AppCompatActivity() {
         })
 
         btnWebView.setOnClickListener(View.OnClickListener {
-            var toast = Toast.makeText(this, "Activity in via di sviluppo", Toast.LENGTH_LONG)
-            toast.show()
-            /*val intent = Intent(this, WebViewActivity::class.java)
-            startActivity(intent)*/
+            /*var toast = Toast.makeText(this, "Activity in via di sviluppo", Toast.LENGTH_LONG)
+            toast.show()*/
+            val intent = Intent(this, WebViewActivity::class.java)
+            startActivity(intent)
         })
 
         btnRest.setOnClickListener(View.OnClickListener {
