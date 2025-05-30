@@ -8,6 +8,8 @@ import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
 
 class WebViewActivity : AppCompatActivity() {
+    private lateinit var webView: WebView
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
@@ -18,11 +20,8 @@ class WebViewActivity : AppCompatActivity() {
             insets
         }
 
-        val webView : WebView = findViewById(R.id.activity_web_view__webView)
-        webView.settings.javaScriptEnabled = true
-        setContentView(webView)
-
-        webView.loadUrl("https://open.spotify.com/intl-it")
+        webView = findViewById<WebView>(R.id.activity_web_view__webView)
+        webView.loadUrl("https://www.imdb.com/it/")
 
     }
 }
